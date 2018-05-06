@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on یواستارت</title>
+    <link>http://www.ustart.ir/tags/</link>
+    <description>Recent content in Tags on یواستارت</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir, en-us</language>
+    
+	<atom:link href="http://www.ustart.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>دامنه</title>
+      <link>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>دامین</title>
+      <link>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%DB%8C%D9%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%DB%8C%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>راه اندازی وبسایت</title>
+      <link>http://www.ustart.ir/tags/%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>میزبانی وب</title>
+      <link>http://www.ustart.ir/tags/%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%88%D8%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%88%D8%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>هاست</title>
+      <link>http://www.ustart.ir/tags/%D9%87%D8%A7%D8%B3%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D9%87%D8%A7%D8%B3%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>وبسایت</title>
+      <link>http://www.ustart.ir/tags/%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ustart.ir/tags/%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

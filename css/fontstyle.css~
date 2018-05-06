@@ -1,0 +1,62 @@
+/*
+Theme Name:     Mini Zenfa
+Theme URI:      http://www.ustart.ir/
+Description:    Customized theme for ustart.ir, guides to start web site with cms.
+Author:         Ali Reza Shiasi
+Author URI:     http://www.zistanplus.com/
+Template:       minimal
+Version:        0.1.11
+*/
+
+
+
+@font-face {
+  font-family: 'Tanha';
+  src: url('../fonts/Tanha.eot');
+  src: url('../fonts/Tanha.woff') format('woff'),
+       url('../fonts/Tanha.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('../fonts/Vazir.eot');
+  src: url('../fonts/Vazir.woff') format('woff'),
+       url('../fonts/Vazir.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vazir-Code';
+  src: url('../fonts/Vazir-Code.eot');
+  src: url('../fonts/Vazir-Code.woff') format('woff'),
+       url('../fonts/Vazir-Code.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Tanha', sans-serif;
+}
+
+html {
+	font-family: 'Vazir', sans-serif;
+}
+
+body {
+	font-family: 'Vazir', sans-serif;
+}
+
+pre {
+	font-family: 'Vazir-Code', sans-serif;
+}
+
+.head-imp {
+	color:red;
+
+}
+

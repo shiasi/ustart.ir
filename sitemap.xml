@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.ustart.ir/guides/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/guides/websitestart/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/guides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D8%AF%D8%A7%D9%85%DB%8C%D9%86/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%88%D8%A8/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D9%87%D8%A7%D8%B3%D8%AA/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/tags/%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ustart.ir/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
